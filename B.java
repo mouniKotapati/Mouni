@@ -6,7 +6,6 @@ public class B {
 		System.out.println("loop:" + i);
 		}
 		System.out.println("main:" + i);
-		// TODO Auto-generated method stub
 
 	}
 
